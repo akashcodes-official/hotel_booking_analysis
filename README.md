@@ -29,23 +29,6 @@ This project explores hotel booking data to understand customer behaviour, cance
 ### 6. 🌐 Booking Channels
 - **46%** of bookings come via **online travel agents (OTAs)**
 - Only **4%** book directly with hotels
-
----
-
-## ✅ Business Recommendations
-
-1. **Implement dynamic pricing strategies**  
-   Adjust room rates based on season, location, and demand to reduce cancellation risk.
-
-2. **Offer discounts at resort hotels on weekends/holidays**  
-   Lowering ADR during peak times could reduce cancellation ratios for resort hotels.
-
-3. **Launch January marketing campaigns**  
-   Special offers during January could improve bookings and lower cancellations.
-
-4. **Focus on improving guest experience in Portugal**  
-   Enhancing service quality may reduce cancellations from this region.
-
 ---
 
 
